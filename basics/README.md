@@ -1,4 +1,4 @@
-# A brief explanation and "Time-Saving" summary of the content and feed above.
+# A brief explanation and summary of the content and feed above.
 
 * [***0-current_working_directory***](https://github.com/PatrikZh/holbertonschool-shell/blob/main/basics/0-current_working_directory) ↓
 
