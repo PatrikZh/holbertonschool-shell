@@ -9,7 +9,7 @@
 * *["chgrp"](http://linuxcommand.org/lc3_man_pages/chgrp1.html)* - **Change a file's group ownership.**
 
 
-***You can view the status of Permissions mainstream by using the command `ls -l`.*** The display should look something like this: ↓
+***You can view the status of Permissions mainstream by using the command `ls -l`.The display should look something like this:*** ↓
 
 ```Shell
 -rwxr--r-- 1 root  X
