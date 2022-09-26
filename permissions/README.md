@@ -82,7 +82,7 @@ Other users: all the permissions`
 ---
 * [***John Doe***](https://github.com/PatrikZh/holbertonschool-shell/blob/main/permissions/9-John_Doe) ↓
 
-`Changes the permission to file hello number (753)
+`Changes the permission to file hello number (753)`
 
 ---
 * [***Look in the mirror***](https://github.com/PatrikZh/holbertonschool-shell/blob/main/permissions/10-mirror_permissions) ↓
