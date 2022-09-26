@@ -1,0 +1,2 @@
+#!/bin/bash
+cihmod u+g hello 
