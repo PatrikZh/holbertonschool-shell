@@ -1,2 +1,2 @@
 #!/bin/bash
-echo Path = $Path
+echo Path = $Path /action
