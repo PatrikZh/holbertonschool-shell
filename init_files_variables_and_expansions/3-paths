@@ -1,2 +1,2 @@
 #!/bin/bash
-PATH=$PATH:/sort 
+echo $PATH | tr ":" "\n" | wc -l 
